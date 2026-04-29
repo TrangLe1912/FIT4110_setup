@@ -1,7 +1,5 @@
 # Smart Campus · Buổi 1 · Student Setup Repo
 
-Repo này dành **chỉ cho sinh viên** trong Buổi 1 của học phần **Dịch vụ kết nối và Công nghệ nền tảng**.
-
 Mục tiêu của Buổi 1 là đưa máy cá nhân của sinh viên về trạng thái sẵn sàng:
 
 - Có Git, Docker, Docker Compose, Node.js, Python/Miniconda.
@@ -9,8 +7,6 @@ Mục tiêu của Buổi 1 là đưa máy cá nhân của sinh viên về trạn
 - Pull trước các Docker image dùng trong học phần.
 - Chạy được smoke test.
 - Tạo được minh chứng học tập trong thư mục `evidence/buoi-01/`.
-
-> Repo này **không chứa file Word/PDF gốc**. Thư mục `docs/` chỉ chứa Markdown dành cho sinh viên.
 
 ---
 
