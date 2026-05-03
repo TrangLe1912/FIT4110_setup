@@ -217,6 +217,7 @@ evidence/buoi-01/
   smoke-test-result.txt
   image-list.txt
   git-log.txt
+  service-boundary.md
 ```
 
 Ý nghĩa của từng file:
@@ -232,6 +233,7 @@ evidence/buoi-01/
 | `git-log.txt` | Lịch sử commit gần nhất |
 | `checklist.md` | Checklist tự xác nhận của sinh viên |
 | `known-issues.md` | Lỗi còn tồn tại, nếu có |
+| `service-boundary.md` | Mô tả Actor, Boundary, Service, Input/Output, API dự kiến và phụ thuộc với service khác của nhóm |
 
 ---
 
@@ -308,6 +310,7 @@ Sinh viên được xem là hoàn thành Buổi 1 khi:
 - Thư mục `evidence/buoi-01/` có đầy đủ minh chứng.
 - Đã commit và push minh chứng lên repo bài làm.
 - Nếu còn lỗi, đã ghi rõ vào `evidence/buoi-01/known-issues.md`.
+- Đã nộp `evidence/buoi-01/service-boundary.md` mô tả Service Boundary của nhóm.
 
 ---
 
